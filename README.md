@@ -75,7 +75,13 @@ Modern Android manufacturers (Xiaomi, Realme, Vivo, Samsung, OnePlus, OPPO) aggr
 
 ---
 
-⚠️ Android Security Compliance Note (v1.0.0 Alpha):Manual Click Required for SOS Dispatch: Due to strict Android security architectures, background data restrictions, and native privacy policies, the application will automatically compile the highly accurate GPS coordinates, street addresses, and Google Maps routing templates directly onto your native SMS and WhatsApp chat screens. However, to bypass security blocks, the user must manually press the final 'Send' button to initiate the broadcast.Future Enhancement Blueprint: In upcoming system updates, we are actively exploring custom background task scheduling APIs and secure Accessibility Service hooks to bypass this restriction and deploy a completely non-touch, fully automated background dispatch mechanism.
+⚠️ Android Security Compliance Note (v1.0):
+
+Manual Click Required for SOS Dispatch:
+Due to strict Android security architectures, background data restrictions, and native privacy policies, the application will automatically compile the highly accurate GPS coordinates, street addresses, and Google Maps routing templates directly onto your native SMS and WhatsApp chat screens. However, to bypass security blocks, the user must manually press the final 'Send' button to initiate the broadcast.
+
+Future Enhancement Blueprint:
+In upcoming system updates, we are actively exploring custom background task scheduling APIs and secure Accessibility Service hooks to bypass this restriction and deploy a completely non-touch, fully automated background dispatch mechanism.
 
 ---
 
