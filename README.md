@@ -49,10 +49,10 @@ When installing the APK directly (sideloading via WhatsApp, Google Drive, or Fil
 1. Download the FallGuard-Rakshak.apk from google drive https://drive.google.com/file/d/1OgigMx3nAuZZ4nkCa1z8FReP34QNRWtK/view?usp=sharing
    Or through the github release section  
 2. Open the downloaded **`FallGuard-Rakshak.apk`**.
-3. If Google Play Protect shows a warning:
+4. If Google Play Protect shows a warning:
    - Tap **"More Details"** (or *View details*).
    - Tap **"Install Anyway"** (or *Install without scanning*).
-4. Open the app and tap **"Grant All SOS Permissions"** once to initialize GPS and sensor tracking.
+5. Open the app and tap **"Grant All SOS Permissions"** once to initialize GPS and sensor tracking.
 
 ---
 
@@ -84,7 +84,7 @@ Modern Android manufacturers (Xiaomi, Realme, Vivo, Samsung, OnePlus, OPPO) aggr
    - **Fall Detection:** If you slip or fall, keep still; after 10 seconds of impact, help will be dispatched automatically.
    - **Shake Mode:** Shake your phone hard 3 times to send a silent SOS.
    - **Loud Siren:** Tap the Siren toggle in the top bar to deter attackers in public spaces.
-
+     
 ---
 
 ## 🔒 Privacy & Data Sovereignty
