@@ -4,6 +4,49 @@
 
 ---
 
+## 📱 Application Interface & Tactical HUD
+
+<p align="center">
+  <img src="assets/rakshak-ss1.png" width="230" alt="Dashboard HUD" />
+  <img src="assets/rakshak-ss2.png" width="230" alt="Tactical Triggers" />
+  <img src="assets/rakshak-ss3.png" width="230" alt="AI Voice Distress" />
+  <img src="assets/rakshak-ss4.png" width="230" alt="Telemetry & Impact Sensor" />
+</p>
+
+---
+
+### 📸 Full Forensic Image Gallery
+<details>
+<summary><b>🔍 Click here to view all 20 layout walkthrough snapshots</b></summary>
+<br>
+<p align="center">
+  <img src="assets/rakshak-ss5.png" width="180" />
+  <img src="assets/rakshak-ss6.png" width="180" />
+  <img src="assets/rakshak-ss7.png" width="180" />
+  <img src="assets/rakshak-ss8.png" width="180" />
+</p>
+<p align="center">
+  <img src="assets/rakshak-ss9.png" width="180" />
+  <img src="assets/rakshak-ss10.png" width="180" />
+  <img src="assets/rakshak-ss11.png" width="180" />
+  <img src="assets/rakshak-ss12.png" width="180" />
+</p>
+<p align="center">
+  <img src="assets/rakshak-ss13.png" width="180" />
+  <img src="assets/rakshak-ss14.png" width="180" />
+  <img src="assets/rakshak-ss15.png" width="180" />
+  <img src="assets/rakshak-ss16.png" width="180" />
+</p>
+<p align="center">
+  <img src="assets/rakshak-ss17.png" width="180" />
+  <img src="assets/rakshak-ss18.png" width="180" />
+  <img src="assets/rakshak-ss19.png" width="180" />
+  <img src="assets/rakshak-ss20.png" width="180" />
+</p>
+</details>
+
+---
+
 ## ✨ Key Features & Capabilities
 
 ### 🚨 1. Real-Time Autonomous SOS & Fall Detection
