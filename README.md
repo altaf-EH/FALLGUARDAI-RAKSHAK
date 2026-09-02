@@ -46,11 +46,13 @@
 When installing the APK directly (sideloading via WhatsApp, Google Drive, or File Manager), Google Play Protect may show a warning because the app is distributed independently prior to official Google Play Store listing.
 
 ### Step-by-Step Installation:
-1. Open the downloaded **`FallGuard-Rakshak.apk`**.
-2. If Google Play Protect shows a warning:
+1. Download the FallGuard-Rakshak.apk from google drive https://drive.google.com/file/d/1OgigMx3nAuZZ4nkCa1z8FReP34QNRWtK/view?usp=sharing
+   Or through the github release section  
+2. Open the downloaded **`FallGuard-Rakshak.apk`**.
+3. If Google Play Protect shows a warning:
    - Tap **"More Details"** (or *View details*).
    - Tap **"Install Anyway"** (or *Install without scanning*).
-3. Open the app and tap **"Grant All SOS Permissions"** once to initialize GPS and sensor tracking.
+4. Open the app and tap **"Grant All SOS Permissions"** once to initialize GPS and sensor tracking.
 
 ---
 
